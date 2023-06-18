@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FetchTable-ReactJs/static/css/main.e6c13ad2.css",
+    "main.js": "/FetchTable-ReactJs/static/js/main.47032663.js",
+    "index.html": "/FetchTable-ReactJs/index.html",
+    "main.e6c13ad2.css.map": "/FetchTable-ReactJs/static/css/main.e6c13ad2.css.map",
+    "main.47032663.js.map": "/FetchTable-ReactJs/static/js/main.47032663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47032663.js"
+  ]
+}
